@@ -23,7 +23,7 @@ const Prisma = async () => {
       {tasks.map((task) => {
         return (
           <h2 key={task.id} className='text-xl py-2'>
-            {task.content}
+            🏋️‍♀️{task.content}
           </h2>
         );
       })}

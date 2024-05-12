@@ -3,8 +3,8 @@ import Link from 'next/link'
 const links = [
     {href: '/client', label: 'Client'},
     {href: '/drinks', label: 'drinks'},
-    {href: '/tasks', label: 'tasks'},
     {href: '/prisma-example', label: 'prisma'},
+    {href: '/tasks', label: 'tasks'},
 ];
 
 
